@@ -18,8 +18,8 @@ This project is a basic implementation of an HTTP server written in C. The serve
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/keremishik/http-server.git
-    cd http-server
+    git clone https://github.com/keremishik/Http-server.git
+    cd Http-server
     ```
 
 2. **Compile the server**:
